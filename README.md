@@ -1,2 +1,3 @@
-# Dog-or-Cat-TensorflowSharp-Example
-An example for TensorflowSharp - classify an image as a dog or cat.
+A small example showing you how to classify an image as a dog or cat using mobilenet on TensorFlowSharp.
+
+![Mobilenet classify dog or cat tensorflow](https://i.imgur.com/KZQIKCO.png)
